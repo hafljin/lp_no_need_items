@@ -1,0 +1,8 @@
+{
+  "name": "EcoClean Direct",
+  "description": "A high-conversion landing page for a junk removal service featuring AI-powered instant quoting and inquiry management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
