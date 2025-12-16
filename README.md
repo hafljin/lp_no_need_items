@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 不用品回収LP「EcoClean Direct」
 
-# Run and deploy your AI Studio app
+このリポジトリは、不用品回収サービスのランディングページ（LP）です。
+AIによる見積もりや事例ギャラリー、問い合わせ管理機能を備えています。
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/163AvEk-ZXv315VTC9xoRWMkbOXh0eaBs
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+主な特徴：
+- 地域密着型の不用品回収サービス訴求
+- AIによる画像見積もり（APIキー設定時）
+- Before/After事例ギャラリー
+- お問い合わせフォーム・管理画面
